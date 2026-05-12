@@ -7,6 +7,7 @@ variable "enable_telemetry" {
 variable "resource_group_name" {
   type        = string
   description = "The name of the Azure resource group to create."
+  default = "rg-testing"
 }
 
 variable "location" {
