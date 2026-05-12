@@ -17,6 +17,9 @@ jobs:
     if: startsWith(github.head_ref, 'feature/')
     runs-on: ubuntu-latest
 
+    outputs:
+      rg_name: ${{ steps.rg.outputs.name }}
+
     steps:
       - uses: actions/checkout@v4
 
