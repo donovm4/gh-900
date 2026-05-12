@@ -4,7 +4,7 @@
 
 - [Collection](https://learn.microsoft.com/en-us/collections/o1njfe825p602p?source=docs)
 
-## New things I have never heard about..
+## New things I have never heard about.
 
 ### Gists  
 
